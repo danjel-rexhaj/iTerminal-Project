@@ -26,5 +26,6 @@ namespace TerminalLibrary.Models
         public DbSet<Trip> Trips { get; set; }
         public DbSet<Message> Messages { get; set; }
 
+
     }
 }

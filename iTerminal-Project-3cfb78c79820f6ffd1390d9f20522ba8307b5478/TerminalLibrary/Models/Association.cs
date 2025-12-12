@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace TerminalLibrary.Models
 {
+    
     public class Association
     {
         [Key]
