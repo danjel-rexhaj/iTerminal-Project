@@ -12,6 +12,7 @@ namespace TerminalLibrary.Models
     public class Company
     {
 
+
         [Key]
         public int CompanyId { get; set; }
         [Required(ErrorMessage = "Name is required")]
