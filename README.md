@@ -1,21 +1,4 @@
 📘 Projekti I-Terminal
-📅 Data
-
-07/11/2025
-
-📚 Lënda
-
-Inxhinieri Softi
-
-👥 Anëtarët e Grupit
-
-Danjel Rexhaj
-
-Gresijola Filaj
-
-Gentjan Nergjoni
-
-Gerald Vreto
 
 🚌 Përshkrimi i Projektit
 
